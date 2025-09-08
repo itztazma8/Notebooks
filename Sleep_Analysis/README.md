@@ -11,3 +11,9 @@
 
 - Do the first task for quality of sleep
 - Check if the occupations are same or not
+
+## Task 3
+
+- Finding insomnia patients
+- Also determining the total number of people in respective categories
+- Figuring out the ratio of all of the categories
