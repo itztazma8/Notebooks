@@ -6,3 +6,8 @@
 - The task is to get the lowest sleep average based on different occupations here in this dataset.
 -  The approach is to first group based on the occupations.
 - Then, find the minimum among them, then print the occupation with lowest average!
+
+## Task 2
+
+- Do the first task for quality of sleep
+- Check if the occupations are same or not
