@@ -1,6 +1,6 @@
 # Car Purchase Prediction
 The main goal of this project is to predict the chance of buying a car given the following information about the car: model, year, price, transmission, fuel type, tax, miles per gallon, engine size, and mileage. <br><br>
-Dataset: [_Ford.csv_](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction/data)
+**Dataset**: [_Ford.csv_](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction/data)
 
 ## Data Handling
 The necessary outliers were dealt with. Then, based on different kinds of relationships, data were taken within a range to get an accurate representation of the data. The car models were also regrouped based on the type of car. 
