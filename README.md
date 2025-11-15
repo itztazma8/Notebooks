@@ -9,3 +9,7 @@ This page will contain all the machine learning/data science projects
 
 ## 3. Store Sales Prediction
 ### A store sales prediction system made using Logistic Regression based on data collected on a monthly basis. <br>[_Project Link_](https://github.com/itztazma8/Notebooks/tree/main/Store%20Sales%20Predictor)
+
+## 4. Fake Bills Prediction
+### Using K-means clustering algorithm, fake bills are predicted using numerical measurements of the bills only. The project can be further enhanced with addition of images mapped along the entries. <br>
+[_Project Link_](https://github.com/itztazma8/Notebooks/tree/main/Fake%20Bills%20Prediction)
