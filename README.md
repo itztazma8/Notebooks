@@ -12,3 +12,7 @@ This page will contain all the machine learning/data science projects
 
 ## 4. Fake Bills Prediction
 ### Using K-means clustering algorithm, fake bills are predicted using numerical measurements of the bills only. The project can be further enhanced with addition of images mapped along the entries. <br> [_Project Link_](https://github.com/itztazma8/Notebooks/tree/main/Fake%20Bills%20Prediction)
+
+
+## 5. Profession Prediction
+### In this case, we first analyze the data properly. After finding the results doing EDA, we cluster the professions based on different metrics like- annual income, gender, spending score and so on. <br> [_Project Link_](https://github.com/itztazma8/Notebooks/tree/main/Profession%20Prediction)
